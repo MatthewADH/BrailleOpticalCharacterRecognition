@@ -1,0 +1,8 @@
+  HELLO, this is
+a test of the BOCR
+AI system.
+Given b sufficient
+number of braille characters,
+the system can convert
+a braille image to a
+BRF file.
